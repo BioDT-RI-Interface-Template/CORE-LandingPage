@@ -1,0 +1,14 @@
+info:
+  parent:
+    - https://lotr.fandom.com/wiki/Main_Page
+  mission:
+    - Our mission is to destroy the one ring in the very flames within which it was once forged.
+  mandate:
+    - Our mandate stretches the lands of Middle Earth far and wide.
+footer:
+  copyright:
+    - Dunno, ask J.R.R.
+  github:
+    - https://github.com/BioDT-RI-Interface-Template
+  contact:
+    - Council of Elrond, Birchtree-Path 4, 0562 Rivendell, Eastern Eriador, Middle Earth
